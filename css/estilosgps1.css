@@ -1,0 +1,39 @@
+* {
+	margin: 0;
+	padding: 0;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+body {
+	background: url('../img/bg.jpg');
+	-webkit-background-size: cover;
+	background-size: cover;
+	font-family: Raleway;
+}
+
+header {
+	width: 100%;
+	background: rgba(0,0,0,.6);
+	border-bottom: 3px solid #FF4032;
+}
+
+
+.logo {
+	width: 95%;
+	max-width: 100px;
+	margin: auto;
+	padding: 10px 0;
+	display: flex;
+	justify-content: center;
+	-ms-align-items: center;
+	align-items: center;
+}
+
+.logo a {
+	text-decoration: none;
+	color: #fff;
+	font-size: 24px;
+	margin-left: 6px;
+}
