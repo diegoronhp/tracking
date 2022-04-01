@@ -10,3 +10,14 @@
     font-weight: bold !important;
 }
 
+.img_iconos{
+    width: 60px;
+    height: 60px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    border: 5px solid #0193DD;
+    margin: 20px auto;
+    padding: 30px;
+}
+
